@@ -1,0 +1,6 @@
+C:\Users\noga.IMSI\SourceControl\Java\Utils\RunJavaAsService\RunJavaAsService\bin\Debug\RunJavaAsService.exe.config
+C:\Users\noga.IMSI\SourceControl\Java\Utils\RunJavaAsService\RunJavaAsService\bin\Debug\RunJavaAsService.exe
+C:\Users\noga.IMSI\SourceControl\Java\Utils\RunJavaAsService\RunJavaAsService\bin\Debug\RunJavaAsService.pdb
+C:\Users\noga.IMSI\SourceControl\Java\Utils\RunJavaAsService\RunJavaAsService\obj\Debug\RunJavaAsService.csprojResolveAssemblyReference.cache
+C:\Users\noga.IMSI\SourceControl\Java\Utils\RunJavaAsService\RunJavaAsService\obj\Debug\RunJavaAsService.exe
+C:\Users\noga.IMSI\SourceControl\Java\Utils\RunJavaAsService\RunJavaAsService\obj\Debug\RunJavaAsService.pdb

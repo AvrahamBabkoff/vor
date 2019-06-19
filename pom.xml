@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>il.co.vor</groupId>
+    <artifactId>vor</artifactId>
+    <packaging>pom</packaging>
+
+    <version>0.0.0</version>
+
+    <modules>
+        <module>Utils/VOSUtilities</module>
+        <module>Utils/VOSLogger</module>
+        <module>Utils/VOSApiObjects</module>
+        <module>Utils/VOSNetServer</module>
+        <module>Utils/VOSNetClient</module>
+        <module>Utils/VOSDBConnection</module>
+        <module>Utils/jamod-svn-26-trunk</module>
+        <module>Services/VOSDalConfig</module>
+        <module>Services/VOSDalData</module>
+        <module>Services/VOSDalReport</module>
+        <module>Services/Modbus</module>
+        <module>Services/VOSFTPTM</module>
+        <module>apps/VOSSystemManager</module>
+    </modules>
+
+</project>

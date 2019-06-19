@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Services/Modbus/Modbus.iml" filepath="$PROJECT_DIR$/Services/Modbus/Modbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/VOSApiObjects/VOSApiObjects.iml" filepath="$PROJECT_DIR$/Utils/VOSApiObjects/VOSApiObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/VOSDBConnection/VOSDBConnection.iml" filepath="$PROJECT_DIR$/Utils/VOSDBConnection/VOSDBConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Services/VOSDalConfig/VOSDalConfig.iml" filepath="$PROJECT_DIR$/Services/VOSDalConfig/VOSDalConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Services/VOSDalData/VOSDalData.iml" filepath="$PROJECT_DIR$/Services/VOSDalData/VOSDalData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Services/VOSDalReport/VOSDalReport.iml" filepath="$PROJECT_DIR$/Services/VOSDalReport/VOSDalReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Services/VOSFTPTM/VOSFTPTM.iml" filepath="$PROJECT_DIR$/Services/VOSFTPTM/VOSFTPTM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/VOSLogger/VOSLogger.iml" filepath="$PROJECT_DIR$/Utils/VOSLogger/VOSLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/VOSNetClient/VOSNetClient.iml" filepath="$PROJECT_DIR$/Utils/VOSNetClient/VOSNetClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/VOSNetServer/VOSNetServer.iml" filepath="$PROJECT_DIR$/Utils/VOSNetServer/VOSNetServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/VOSSystemManager/VOSSytemManager.iml" filepath="$PROJECT_DIR$/apps/VOSSystemManager/VOSSytemManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/VOSUtilities/VOSUtilities.iml" filepath="$PROJECT_DIR$/Utils/VOSUtilities/VOSUtilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/jamod-svn-26-trunk/jamod.iml" filepath="$PROJECT_DIR$/Utils/jamod-svn-26-trunk/jamod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vor1.iml" filepath="$PROJECT_DIR$/.idea/vor1.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+ServiceType,MainClass
+DAL_CONFIG,il.co.vor.DalConfig.DalConfig
+DAL_DATA,il.co.vor.DalData.DalData
+NPL,il.co.vor.Modbus.NPL
+FTPTM,il.co.vor.FTPTM.FTPTM
+DAL_REPORT,il.co.vor.DalReport.DalReport
